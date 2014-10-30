@@ -1,0 +1,42 @@
+{
+  "name": "treebeard",
+  "version": "0.3.2",
+  "homepage": "https://github.com/caneruguz/treebeard",
+  "authors": [
+    "Caner Uguz <caneruguz@gmail.com>",
+    "Faye Huynh"
+  ],
+  "description": "Hierarchical data renderer built with Mithril",
+  "main": "dist/treebeard.js",
+  "keywords": [
+    "treebeard",
+    "mithril",
+    "grid",
+    "json",
+    "hierarchical"
+  ],
+  "license": "Apache 2",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery-ui": "~1.11.0",
+    "mithril": "~0.1.22"
+  },
+  "_release": "0.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.2",
+    "commit": "9638db93e902e4f691ed800a40e9828494b7f948"
+  },
+  "_source": "git://github.com/caneruguz/treebeard.git",
+  "_target": "~0.3.2",
+  "_originalSource": "treebeard",
+  "_direct": true
+}

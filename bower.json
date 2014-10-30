@@ -1,0 +1,27 @@
+{
+  "name": "cos-folder-docs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/caneruguz/cos-folder-docs",
+  "authors": [
+    "Caner Uguz <caneruguz@gmail.com>"
+  ],
+  "description": "Folder documentation using an implementation of treebeard",
+  "main": "index.html",
+  "keywords": [
+    "documentation",
+    "osf"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "treebeard": "~0.3.2"
+  }
+}
